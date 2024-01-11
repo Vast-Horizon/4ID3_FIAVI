@@ -1,5 +1,5 @@
 
-<h1>A repo for everything SMRTTECH 4ID3:IoT Devices and Networks</h1>
+<h1>A repo for SMRTTECH 4ID3:IoT Devices and Networks</h1>
 <h3>Fiavi Yang 400313183<br>
 Winter 2024</h3>
 
